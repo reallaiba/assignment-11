@@ -1,0 +1,27 @@
+.flag{
+    border: 2px solid black;
+    height: 250px;
+    width: 450px;
+}
+.a{
+    background-color: rgb(202, 1, 0);
+    height: 100px;
+}
+.b{
+    background-color: rgb(245, 245, 245);
+    height: 40px;
+}
+.c{
+    background-color: rgb(202, 1, 0);
+    height: 110px;
+}
+.center{
+    background-color:  rgb(245, 245, 245);
+    height: 250px;
+    width: 50px;
+    position: absolute;
+    bottom: 328px;
+    left: 100px;
+
+
+}
